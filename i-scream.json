@@ -1,0 +1,33 @@
+{
+  "company": "I Scream Inc.",
+  "topFlavors": [
+    {
+      "name": "Vanilla Delight",
+      "calories": 200,
+      "type": "ice cream",
+      "ingredients": ["milk", "cream", "sugar"],
+      "image": "vanilla-delight.svg"
+    },
+    {
+      "name": "Chocolate Heaven",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": ["milk", "chocolate", "sugar"],
+      "image": "chocolate-heaven.svg"
+    },
+    {
+      "name": "Berry Blast",
+      "calories": 300,
+      "type": "sorbet",
+      "ingredients": ["blueberries", "raspberries", "lemon juice"],
+      "image": "berry-blast.svg"
+    },
+    {
+      "name": "Choco Caramel Crunch",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": ["chocolate", "caramel", "wafer bits"],
+      "image": "choco-caramel-crunch.svg"
+    }
+  ]
+}
